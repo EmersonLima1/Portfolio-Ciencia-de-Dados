@@ -6,4 +6,4 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
 
 # Projetos
 
-  ### Python  
+  ### - Python  
