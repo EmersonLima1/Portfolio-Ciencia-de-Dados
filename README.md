@@ -14,3 +14,4 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
   
   [Relatório Power BI - Análise dos Microdados do Enade 2017 - Cursos de Computação da Bahia:](https://github.com/EmersonLima1/Projeto02/blob/main/README.md) No seguinte relatório é realizado uma análise dos microdados do Enade (edição 2017), utilizando o programa Power BI, com o objetivo de descobrir as características dos concluintes dos cursos presenciais de computação da Bahia.
   
+Para eventuais contatos, envie um e-mail para [emerson1lima12@gmail.com](mailto:emerson1lima12@gmail.com) ou entre em contato pelo meu perfil no [Linkedin](https://www.linkedin.com/in/emerson-lima-7649851a2/).
