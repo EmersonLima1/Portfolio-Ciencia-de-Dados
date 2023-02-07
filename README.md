@@ -16,5 +16,7 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
   
   [Transporte Rodoviário de Cargas:](https://github.com/EmersonLima1/Projeto03/blob/main/README.md) No seguinte relatório é agrupado as seguintes informações: Transportadores inscritos no Registro Nacional de Transportadores Rodoviários de Cargas, Empresas Habilitadas como Operador de Transporte Multimodal e Relação dos autos de infração aplicados nos serviços de transporte rodoviário de cargas (do ano de 2022).
   
+  [Desafio Analista de Dados/ Engenheiro de Analytics:](https://github.com/EmersonLima1/Projeto04/blob/main/README.md) Este desafio tem como objetivo simular um projeto de analytics de uma empresa fictícia chamada de Discorama que tem o objetivo de amadurecer na sua cultura e no uso de dados dentro da organização.
+  
   
 Para eventuais contatos, envie um e-mail para [emerson1lima12@gmail.com](mailto:emerson1lima12@gmail.com) ou entre em contato pelo meu perfil no [Linkedin](https://www.linkedin.com/in/emerson-lima-7649851a2/).
