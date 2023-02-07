@@ -16,6 +16,5 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
   
   [Transporte Rodoviário de Cargas:](https://github.com/EmersonLima1/Projeto03/blob/main/README.md) No seguinte relatório é agrupado as seguintes informações: Transportadores inscritos no Registro Nacional de Transportadores Rodoviários de Cargas, Empresas Habilitadas como Operador de Transporte Multimodal e Relação dos autos de infração aplicados nos serviços de transporte rodoviário de cargas (do ano de 2022).
   
-  [Covid-19 Bahia (2020-2022):](https://github.com/EmersonLima1/Projeto04/blob/main/README.md) No seguinte relatório é agrupados as informações referentes aos números de contaminados e de óbitos por Covid-19 no estado da Bahia durante o período 2020 a 2022.
   
 Para eventuais contatos, envie um e-mail para [emerson1lima12@gmail.com](mailto:emerson1lima12@gmail.com) ou entre em contato pelo meu perfil no [Linkedin](https://www.linkedin.com/in/emerson-lima-7649851a2/).
