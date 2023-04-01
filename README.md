@@ -20,7 +20,7 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
 
 ### Problemas de classificação
 
-[Algoritmo Naive Bayes:]
+[Algoritmo Naive Bayes - German Credit Data:](https://github.com/EmersonLima1/Projeto05) O projeto tem como objetivo treinar um modelo de Machine Learning usando o algoritmo Naive Bayes para prever se novos solicitantes de crédito serão bons ou maus pagadores.
 
 
 ## Sistemas de recomendação
