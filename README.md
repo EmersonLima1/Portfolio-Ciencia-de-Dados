@@ -16,6 +16,10 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
 
   [Desafio Analista de Dados/ Engenheiro de Analytics:](https://github.com/EmersonLima1/Projeto04/blob/main/README.md) Este desafio tem como objetivo simular um projeto de analytics de uma empresa fictícia chamada de Discorama que tem o objetivo de amadurecer na sua cultura e no uso de dados dentro da organização.
   
+## Visualização de dados
+  
+[Visualização de dados com Python:](https://github.com/EmersonLima1/Projeto06/blob/main/README.md) Este repositória busca fornecer uma ampla visão sobre as principais bibliotecas Python utilizadas para visualização de dados.
+  
 ## Machine Learning
 
 ### Problemas de classificação
