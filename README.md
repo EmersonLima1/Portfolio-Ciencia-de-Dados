@@ -18,7 +18,7 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
   
 ## Visualização de dados
   
-[Visualização de dados com Python:](https://github.com/EmersonLima1/Projeto06/blob/main/README.md) Este repositória busca fornecer uma ampla visão sobre as principais bibliotecas Python utilizadas para visualização de dados.
+[Visualização de dados com Python:](https://github.com/EmersonLima1/Projeto06/blob/main/README.md) Este repositório busca fornecer uma ampla visão sobre as principais bibliotecas Python utilizadas para visualização de dados.
   
 ## Machine Learning
 
