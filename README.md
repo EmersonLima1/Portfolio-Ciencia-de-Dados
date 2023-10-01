@@ -26,6 +26,9 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
 
 [Algoritmo Naive Bayes - German Credit Data:](https://github.com/EmersonLima1/Projeto05) O projeto tem como objetivo treinar um modelo de Machine Learning usando o algoritmo Naive Bayes para prever se novos solicitantes de crédito serão bons ou maus pagadores.
 
+## Análise de Dados com Estruturas de Dados
+
+[Estruturas de Dados do Python:](https://github.com/EmersonLima1/Projeto07/blob/main/README.md) Este repositório busca fornecer uma ampla visão sobre as principais estruturas de dados Python utilizadas para análise de dados.
 
 ## Sistemas de recomendação
   
