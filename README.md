@@ -30,6 +30,8 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
 
 [Estruturas de Dados do Python:](https://github.com/EmersonLima1/Projeto07/blob/main/README.md) Este repositório busca fornecer uma ampla visão sobre as principais estruturas de dados Python utilizadas para análise de dados.
 
+[Manipulação de Strings em Python:](https://github.com/EmersonLima1/Projeto08/blob/main/README.md) Este repositório é um conjunto de recursos dedicados à manipulação eficiente de strings em Python. Inclui um notebook repleto de exemplos práticos e técnicas de manipulação de strings, destinado a ajudar desenvolvedores e profissionais de Ciência de Dados a dominar essa habilidade fundamental em Python.
+
 ## Sistemas de recomendação
   
   
