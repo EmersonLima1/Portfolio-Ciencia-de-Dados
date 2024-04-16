@@ -6,6 +6,10 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
 
 # Projetos
 
+## Análise/Ciência de dados
+
+  [Além do Nosso Sol: Investigando Exoplanetas Através da Ciência de Dados:](https://github.com/EmersonLima1/analise_dados_exoplanetas/blob/main/README.md) O projeto visa explorar a diversidade dos exoplanetas, investigando características físicas como massa, raio, temperatura e composição para entender a complexidade dos sistemas planetários fora do nosso sistema solar. Além disso, busca identificar padrões e tendências nos dados, utilizando análise exploratória para revelar correlações entre variáveis, distribuições espaciais e evolução temporal das descobertas.
+
 ## Análise exploratória de dados
 
   [Análise Exploratória dos Dados do Enade com Python:](https://github.com/EmersonLima1/Projeto01/blob/29f38e5943466228a99aa87b20b925eb9803d0f9/Projeto01_An%C3%A1lise_Explorat%C3%B3ria_dos_Dados_do_Enade_com_Python.ipynb) O presente trabalho tem como objetivo realizar uma análise exploratória dos dados do Enade de 2011, 2014 e 2017, utilizando a linguagem de programação Python, com o intuito de descobrir as características dos concluintes dos cursos presenciais de computação da cidade de Vitória da Conquista - BA.
