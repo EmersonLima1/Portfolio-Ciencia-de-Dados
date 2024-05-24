@@ -50,6 +50,7 @@ Criei esse portfólio com o objetivo de evidenciar as minhas habilidades técnic
 
 ## Sistemas de recomendação
 
+[Sistema de Recomendações de Filmes:](https://github.com/EmersonLima1/sistema_recomendacao_filmes/blob/main/README.md) Este é um repositório com um sistema de recomendações de filmes baseado em conteúdo, que utiliza técnicas de processamento de linguagem natural (NLP) e similaridade de cosseno para sugerir filmes semelhantes com base em uma entrada fornecida pelo usuário.
 
 ## Contato
   
